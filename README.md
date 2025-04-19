@@ -16,11 +16,65 @@ The datasets are built from data sourced from existing datasets, including from 
 
 **Python** 
 - Which version
-- Libraries
+
 
 **Jupyter notebook**
 - What type of installation were we using? 
-- Did anyone test it with Google Collab? 
+- Did anyone test it with Google Collab? Or any other platform?  Was it running locally?  Or on the CHPC?
+
+**Libraries used**
+1. Group4.ipynb Notebook
+- import sys 
+- import os 
+- import pandas as pd 
+- import numpy as np 
+- import matplotlib.pyplot as plt 
+- import geopandas as gpd 
+- import seaborn as sea 
+- import geodatasets as gds 
+- import fiona #geopandas needs this for shapefiles 
+- from geopy.distance import geodesic 
+- from matplotlib import colormaps 
+- from shapely.geometry import Point 
+- from pathlib import Path 
+
+2. Exploratory_data_analysis.ipynb Notebook
+- import pandas as pd 
+- import matplotlib.pyplot as plt 
+- from pathlib import Path 
+- import seaborn as sns 
+- import matplotlib.pyplot as plt 
+- import geopandas as gpd 
+- from geopy.distance import geodesic 
+- from shapely.geometry import Point 
+
+3. Group4-checkpoint.ipynb Notebook 
+- import sys 
+- import os 
+- import pandas as pd 
+- import numpy as np 
+- import matplotlib.pyplot as plt 
+- import geopandas as gpd 
+- import seaborn as sea 
+- import geodatasets as gds 
+- import fiona 
+
+4. Exploratory_data_analysis_SI-checkpoint.ipynb Notebook 
+- import pandas as pd 
+- import matplotlib.pyplot as plt 
+- from pathlib import Path 
+- import seaborn as sns 
+- import matplotlib.pyplot as plt 
+- import geopandas as gpd 
+- from geopy.distance import geodesic 
+- from shapely.geometry import Point 
+
+5. Exploratory_data_analysis-checkpoint.ipynb Notebook 
+- import pandas as pd 
+- import matplotlib.pyplot as plt 
+- from pathlib import Path 
+- from geopy.distance import geodesic 
+- from shapely.geometry import Point
 
 **IDE**
 - Which one(s)? 
@@ -47,7 +101,13 @@ Links to download these software packages
 
 #### Dataset Metadata 
 
-#### File Organization 
+**File Types**
+Jupyter Notebooks
+Data Files
+Source and Reference Materials
+Course Presentation Materials
+
+#### File Organization
 
 #### Sources 
 
