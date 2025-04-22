@@ -14,15 +14,18 @@ In 2018, Cantor et al. published their Factors Affecting Communities and Enablin
 #### Prerequisites
 The datasets are built from data sourced from existing datasets, including from the CDC, ACS (Census), EPA, and others. The specific sources and variables are indicated below in our data dictionary register. The datasets were downloaded from their original source files, converted to CSVs, and manipulated using python and related python libraries as documented in the Jupyter notebooks.  The following software elements are required to reproduce and/or work with the dataset: 
 
-Python
-Jupyter notebook
+Python:
+[Python Libraries needed](https://github.com/lwynholds/BMI6016_SDOH/blob/main/Final%20Deliverable/Python_Libraries_Used)
+Jupyter notebooks:
+[Group4.ipynb](https://github.com/lwynholds/BMI6016_SDOH/blob/main/Final%20Deliverable/Group4.ipynb)
+[Exploratory_data_analysis.ipynb](https://github.com/lwynholds/BMI6016_SDOH/blob/main/Final%20Deliverable/Exploratory_data_analysis.ipynb)
 
 #### Installation 
 
 Links to download the files which are too large to host on Github: 
 [Downloading Large Files](https://github.com/lwynholds/BMI6016_SDOH/blob/main/Final%20Deliverable/Data%20Files/z%20To%20retrieve%20large%20data%20files%2C%20DO%20THIS.md)
 
-Instructions for Assembling File Folders and Running Jupyter Notebooks
+Instructions for Assembling File Folders and Running Jupyter Notebooks:
 [Assembly Instructions](https://github.com/lwynholds/BMI6016_SDOH/blob/main/Final%20Deliverable/Assembly_instructions.md)
 
 ### Usage 
@@ -49,14 +52,15 @@ Course Presentation Materials
 Instructions for downloading the files and running the Jupyter notebooks can be found here:
 
 
-#### Sources 
-
-#### Variables
+#### Sources and Variables
 A complete list of variable names, sources and descriptive information can be found here:
 https://github.com/lwynholds/BMI6016_SDOH/blob/main/Final%20Deliverable/Group4%20Variable%20Summary.xlsx 
 
 ### License 
+CC-BY
 
 ### Contact 
+@lwynholds
 
-Acknowledgments 
+### Acknowledgments 
+Thanks to the instructors and everyone at the University of Utah's Biomedical Informatics Data Wrangling Course for enabling this project and providing feedback on it.
