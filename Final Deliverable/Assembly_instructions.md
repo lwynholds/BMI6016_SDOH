@@ -1,6 +1,6 @@
-# Instructions for Downloading Files/Assembling Data Folders for Jupyter Notebooks
+# Instructions for Running Jupyter Notebooks and Assembling Data Folders
 
-**You must first compile data sources before running the Python code.** 
+**You must first download and assemble data sources into the Data Files folder before running the Python code.** 
 
 1. Download the GitHub Repository to your local machine. PRESERVE THE DIRECTORY STRUCTURE.
 
