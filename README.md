@@ -14,13 +14,9 @@ In 2018, Cantor et al. published their Factors Affecting Communities and Enablin
 #### Prerequisites
 The datasets are built from data sourced from existing datasets, including from the CDC, ACS (Census), EPA, and others. The specific sources and variables are indicated below in our data dictionary register. The datasets were downloaded from their original source files, converted to CSVs, and manipulated using python and related python libraries as documented in the Jupyter notebooks.  The following software elements are required to reproduce and/or work with the dataset: 
 
-**Python** 
-- Which version
+Python
+Jupyter notebook
 
-
-**Jupyter notebook**
-- What type of installation were we using? 
-- Did anyone test it with Google Collab? Or any other platform?  Was it running locally?  Or on the CHPC?
 
 **Libraries used**
 1. Group4.ipynb Notebook
@@ -76,16 +72,10 @@ The datasets are built from data sourced from existing datasets, including from 
 - from geopy.distance import geodesic 
 - from shapely.geometry import Point
 
-**IDE**
-- Which one(s)? 
-
-**GIS**
-- xGIS?
-- Jupyter notebooks?
 
 #### Installation 
 
-Links to download these software packages 
+Links to download the files which are too large to host on Github: https://github.com/lwynholds/BMI6016_SDOH/blob/main/Final%20Deliverable/Data%20Files/z%20To%20retrieve%20large%20data%20files%2C%20DO%20THIS.md 
 
 ### Usage 
 
@@ -108,10 +98,14 @@ Source and Reference Materials
 Course Presentation Materials
 
 #### File Organization
+Instructions for downloading the files and running the Jupyter notebooks can be found here:
+
 
 #### Sources 
 
-#### Variables 
+#### Variables
+A complete list of variable names, sources and descriptive information can be found here:
+https://github.com/lwynholds/BMI6016_SDOH/blob/main/Final%20Deliverable/Group4%20Variable%20Summary.xlsx 
 
 ### License 
 
