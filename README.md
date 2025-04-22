@@ -75,7 +75,11 @@ Jupyter notebook
 
 #### Installation 
 
-Links to download the files which are too large to host on Github: https://github.com/lwynholds/BMI6016_SDOH/blob/main/Final%20Deliverable/Data%20Files/z%20To%20retrieve%20large%20data%20files%2C%20DO%20THIS.md 
+Links to download the files which are too large to host on Github: 
+[Downloading Large Files](https://github.com/lwynholds/BMI6016_SDOH/blob/main/Final%20Deliverable/Data%20Files/z%20To%20retrieve%20large%20data%20files%2C%20DO%20THIS.md)
+
+Instructions for Assembling File Folders and Running Jupyter Notebooks
+[Assembly Instructions](https://github.com/lwynholds/BMI6016_SDOH/blob/main/Final%20Deliverable/Assembly_instructions.md)
 
 ### Usage 
 
