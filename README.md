@@ -63,8 +63,8 @@ Jupyter notebooks:
 - GIS files (map files)
 
 **Source and Reference Materials:**
-- [Folder](https://github.com/lwynholds/BMI6016_SDOH/tree/main/Source%20and%20Reference%20Material)
-- [Variable Sources](https://github.com/lwynholds/BMI6016_SDOH/blob/main/Final%20Deliverable/Group4%20Variable%20Summary.xlsx)
+- [Github Folder](https://github.com/lwynholds/BMI6016_SDOH/tree/main/Source%20and%20Reference%20Material)
+- [Variables Description](https://github.com/lwynholds/BMI6016_SDOH/blob/main/Final%20Deliverable/Group4%20Variable%20Summary.xlsx)
 
 **Course Presentation Materials:**
 - [Project Proposal](https://github.com/lwynholds/BMI6016_SDOH/blob/main/Group_4_Project_proposal.pdf)
