@@ -35,7 +35,7 @@ Jupyter notebooks:
 1. Overview:
    Download all the files in the Github repository to your local machine, keeping the original directory structure.  The project files are in the [Final Deliverable](https://github.com/lwynholds/BMI6016_SDOH/tree/main/Final%20Deliverable) folder.
    
-2. Download the files >25 MB, which are too large to host on Github, from this Box link: 
+2. Download the files >25 MB, which are too large to host on GitHub, from this Box link: 
 [Instructions for Downloading Large Files](https://github.com/lwynholds/BMI6016_SDOH/blob/main/Final%20Deliverable/Data%20Files/z%20To%20retrieve%20large%20data%20files%2C%20DO%20THIS.md)
 
  *Note: These files need to be placed with the other, smaller files in the 'Final Deliverable/Data Files/' folder on your local machine.*  
