@@ -36,12 +36,12 @@ Jupyter notebooks:
 2. Download the files which are too large to host on Github: 
 [Instructions for Downloading Large Files](https://github.com/lwynholds/BMI6016_SDOH/blob/main/Final%20Deliverable/Data%20Files/z%20To%20retrieve%20large%20data%20files%2C%20DO%20THIS.md)
 
-* *Note: These files need to be placed in the 'Final Deliverable/Data Files/' folder on your local machine.* * 
+ *Note: These files need to be placed in the 'Final Deliverable/Data Files/' folder on your local machine.*  
 
 3. Instructions for Running the Jupyter Notebooks:
 [Instructions for Running Notebooks](https://github.com/lwynholds/BMI6016_SDOH/blob/main/Final%20Deliverable/Assembly_instructions.md)
 
-* *Note: Running the Jupyter Notebooks will recreate csv files which have also been included in the data directory (for reproducibility and extensibility purposes).* *
+ *Note: Running the Jupyter Notebooks will recreate csv files which have also been included in the data directory (for reproducibility and extensibility purposes).* 
 
 ### Usage  
 
