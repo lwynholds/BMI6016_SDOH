@@ -1,13 +1,15 @@
 # BMI6016_SDOH
 Group project for BMI 6016
 
-## Draft ToC for Github Documentation: 
+## ToC: 
 
 ### About The Project 
 
 The concept of Social Determinants of Health (SDOH) has been widely recognized in health research, following the early efforts by the World Health Organization (WHO) to contextualize systemic and population-level health disparities worldwide. In the United States, SDOH are central to public health and policy, and as such, are measured, tracked, and studied in detail by the Centers for Disease Control and Prevention (CDC) in cooperation with other organizations that conduct national survey data, such as Health and Human Services (HHS), the US Census and their American Community Survey (ACS), the Agency for Health Research and Quality (AHRQ), and the National Institutes of Health (NIH). A substantial portion of SDOH data is derived from national surveys, census records, and geographic datasets, providing valuable insights into social and environmental conditions that impact health outcomes. However, integrating these diverse data sources into actionable tools for clinical and public health applications remains a significant challenge. 
  
 In 2018, Cantor et al. published their Factors Affecting Communities and Enabling Targeted Services (FACETS) model, an open-data architecture, designed for New York City to standardize and compile SDOH-related data at the census-tract level.(Cantor et al., 2018) FACETS facilitates the integration of community-level determinants with patient health records, enhancing decision-making in care planning.  Building on this approach, this project developed a model tailored to the state of Utah, based on the framework developed with FACETS, with special focus on air quality as a primary exposure. By integrating state-specific SDOH data, including environmental data, into a standardized framework, this initiative aims to provide a comprehensive tool for assessing community-level health determinants, ultimately supporting more informed public health interventions and clinical decision-making. 
+
+[More](https://github.com/lwynholds/BMI6016_SDOH/blob/main/Group_4_Project_proposal.pdf)
 
 ### Getting Started 
 
@@ -28,33 +30,39 @@ Links to download the files which are too large to host on Github:
 Instructions for Assembling File Folders and Running Jupyter Notebooks:
 [Assembly Instructions](https://github.com/lwynholds/BMI6016_SDOH/blob/main/Final%20Deliverable/Assembly_instructions.md)
 
-### Usage 
-
-#### Examples 
-- Sample maps
-- Jupyter notebook 
+### Usage  
 
 #### Data quality 
-- Jupyter notebook
-- graphs 
+- Jupyter notebook:
+  [Exploratory_data_analysis.ipynb](https://github.com/lwynholds/BMI6016_SDOH/blob/main/Final%20Deliverable/Exploratory_data_analysis.ipynb)
+- sample graphs:
+  [Presentation of Project](https://github.com/lwynholds/BMI6016_SDOH/blob/main/Group%204%20Final%20Slides.pdf)
 
 ### Data Files 
 
 #### Dataset Metadata 
 
 **File Types**
-Jupyter Notebooks
-Data Files
-Source and Reference Materials
-Course Presentation Materials
+Jupyter Notebooks (code)
+CSV tables (data)
+pdf documents (documentation)
+XLSX spreadsheets (documentation)
+
+**Source and Reference Materials:**
+[Folder](https://github.com/lwynholds/BMI6016_SDOH/tree/main/Source%20and%20Reference%20Material)
+[Variable Sources](https://github.com/lwynholds/BMI6016_SDOH/blob/main/Final%20Deliverable/Group4%20Variable%20Summary.xlsx)
+
+**Course Presentation Materials:**
+[Project Proposal](https://github.com/lwynholds/BMI6016_SDOH/blob/main/Group_4_Project_proposal.pdf)
+[Presentation of Project](https://github.com/lwynholds/BMI6016_SDOH/blob/main/Group%204%20Final%20Slides.pdf)
 
 #### File Organization
 Instructions for downloading the files and running the Jupyter notebooks can be found here:
-
+[Downloading and Running the Notebooks](https://github.com/lwynholds/BMI6016_SDOH/blob/main/Final%20Deliverable/Assembly_instructions.md)
 
 #### Sources and Variables
 A complete list of variable names, sources and descriptive information can be found here:
-https://github.com/lwynholds/BMI6016_SDOH/blob/main/Final%20Deliverable/Group4%20Variable%20Summary.xlsx 
+[Variable Summary.xlsx](https://github.com/lwynholds/BMI6016_SDOH/blob/main/Final%20Deliverable/Group4%20Variable%20Summary.xlsx)
 
 ### License 
 CC-BY
