@@ -56,18 +56,19 @@ Jupyter notebooks:
 #### Dataset Metadata 
 
 **File Types**
-Jupyter Notebooks (code)
-CSV tables (data)
-pdf documents (documentation)
-XLSX spreadsheets (documentation)
+- Jupyter Notebooks (code)
+- CSV tables (data)
+- pdf documents (documentation)
+- XLSX spreadsheets (documentation)
+- GIS files (map files)
 
 **Source and Reference Materials:**
-[Folder](https://github.com/lwynholds/BMI6016_SDOH/tree/main/Source%20and%20Reference%20Material)
-[Variable Sources](https://github.com/lwynholds/BMI6016_SDOH/blob/main/Final%20Deliverable/Group4%20Variable%20Summary.xlsx)
+- [Folder](https://github.com/lwynholds/BMI6016_SDOH/tree/main/Source%20and%20Reference%20Material)
+- [Variable Sources](https://github.com/lwynholds/BMI6016_SDOH/blob/main/Final%20Deliverable/Group4%20Variable%20Summary.xlsx)
 
 **Course Presentation Materials:**
-[Project Proposal](https://github.com/lwynholds/BMI6016_SDOH/blob/main/Group_4_Project_proposal.pdf)
-[Presentation of Project](https://github.com/lwynholds/BMI6016_SDOH/blob/main/Group%204%20Final%20Slides.pdf)
+- [Project Proposal](https://github.com/lwynholds/BMI6016_SDOH/blob/main/Group_4_Project_proposal.pdf)
+- [Presentation of Project](https://github.com/lwynholds/BMI6016_SDOH/blob/main/Group%204%20Final%20Slides.pdf)
 
 #### File Organization
 Instructions for downloading the files and running the Jupyter notebooks can be found here:
