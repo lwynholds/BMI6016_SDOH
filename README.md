@@ -1,5 +1,8 @@
 # BMI6016_SDOH
-Group project for BMI 6016
+
+Group project for BMI 6016, Spring 2025
+
+University of Utah, Department of Bioinformatics
 
 ## ToC: 
 
@@ -14,23 +17,31 @@ In 2018, Cantor et al. published their Factors Affecting Communities and Enablin
 ### Getting Started 
 
 #### Prerequisites
-The datasets are built from data sourced from existing datasets, including from the CDC, ACS (Census), EPA, and others. The specific sources and variables are indicated below in our data dictionary register. The datasets were downloaded from their original source files, converted to CSVs, and manipulated using python and related python libraries as documented in the Jupyter notebooks.  The following software elements are required to reproduce and/or work with the dataset: 
+The datasets are built from data sourced from existing datasets, including from the CDC, ACS (Census), EPA, and others. The specific sources and variables are indicated below in our [Variable Sources](https://github.com/lwynholds/BMI6016_SDOH/blob/main/Final%20Deliverable/Group4%20Variable%20Summary.xlsx). The datasets were downloaded from their original source files, converted to CSVs, and manipulated using python and related python libraries as documented in the Jupyter notebooks.  The following software elements are required to reproduce and/or work with the dataset: 
 
 Python:
 [Python Libraries needed](https://github.com/lwynholds/BMI6016_SDOH/blob/main/Final%20Deliverable/Python_Libraries_Used)
 
 
 Jupyter notebooks:
-[Group4.ipynb](https://github.com/lwynholds/BMI6016_SDOH/blob/main/Final%20Deliverable/Group4.ipynb)
-[Exploratory_data_analysis.ipynb](https://github.com/lwynholds/BMI6016_SDOH/blob/main/Final%20Deliverable/Exploratory_data_analysis.ipynb)
+1. [Group4.ipynb](https://github.com/lwynholds/BMI6016_SDOH/blob/main/Final%20Deliverable/Group4.ipynb)
+
+2. [Exploratory_data_analysis.ipynb](https://github.com/lwynholds/BMI6016_SDOH/blob/main/Final%20Deliverable/Exploratory_data_analysis.ipynb)
 
 #### Installation 
 
-1. Download the files which are too large to host on Github: 
-[Downloading Large Files](https://github.com/lwynholds/BMI6016_SDOH/blob/main/Final%20Deliverable/Data%20Files/z%20To%20retrieve%20large%20data%20files%2C%20DO%20THIS.md)
+1. Overview:
+   Download all the files in the Github repository to your local machine.  The project files are in the [Final Deliverable](https://github.com/lwynholds/BMI6016_SDOH/tree/main/Final%20Deliverable) folder.
+   
+2. Download the files which are too large to host on Github: 
+[Instructions for Downloading Large Files](https://github.com/lwynholds/BMI6016_SDOH/blob/main/Final%20Deliverable/Data%20Files/z%20To%20retrieve%20large%20data%20files%2C%20DO%20THIS.md)
 
-2. Assembling File Folders and Run the Jupyter Notebooks:
+* *Note: These files need to be placed in the 'Final Deliverable/Data Files/' folder on your local machine.* * 
+
+3. Instructions for Running the Jupyter Notebooks:
 [Instructions for Running Notebooks](https://github.com/lwynholds/BMI6016_SDOH/blob/main/Final%20Deliverable/Assembly_instructions.md)
+
+* *Note: Running the Jupyter Notebooks will recreate csv files which have also been included in the data directory (for reproducibility and extensibility purposes).* *
 
 ### Usage  
 
