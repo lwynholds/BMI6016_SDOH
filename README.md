@@ -48,7 +48,7 @@ Jupyter notebooks:
 #### Data quality 
 - Jupyter notebook:
   [Exploratory_data_analysis.ipynb](https://github.com/lwynholds/BMI6016_SDOH/blob/main/Final%20Deliverable/Exploratory_data_analysis.ipynb)
-- sample graphs:
+- Sample graphs:
   [Presentation of Project](https://github.com/lwynholds/BMI6016_SDOH/blob/main/Group%204%20Final%20Slides.pdf)
 
 ### Data Files 
