@@ -18,17 +18,19 @@ The datasets are built from data sourced from existing datasets, including from 
 
 Python:
 [Python Libraries needed](https://github.com/lwynholds/BMI6016_SDOH/blob/main/Final%20Deliverable/Python_Libraries_Used)
+
+
 Jupyter notebooks:
 [Group4.ipynb](https://github.com/lwynholds/BMI6016_SDOH/blob/main/Final%20Deliverable/Group4.ipynb)
 [Exploratory_data_analysis.ipynb](https://github.com/lwynholds/BMI6016_SDOH/blob/main/Final%20Deliverable/Exploratory_data_analysis.ipynb)
 
 #### Installation 
 
-Links to download the files which are too large to host on Github: 
+1. Download the files which are too large to host on Github: 
 [Downloading Large Files](https://github.com/lwynholds/BMI6016_SDOH/blob/main/Final%20Deliverable/Data%20Files/z%20To%20retrieve%20large%20data%20files%2C%20DO%20THIS.md)
 
-Instructions for Assembling File Folders and Running Jupyter Notebooks:
-[Assembly Instructions](https://github.com/lwynholds/BMI6016_SDOH/blob/main/Final%20Deliverable/Assembly_instructions.md)
+2. Assembling File Folders and Run the Jupyter Notebooks:
+[Instructions for Running Notebooks](https://github.com/lwynholds/BMI6016_SDOH/blob/main/Final%20Deliverable/Assembly_instructions.md)
 
 ### Usage  
 
